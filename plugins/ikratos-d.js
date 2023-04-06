@@ -1,13 +1,13 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, groupMetadata, usedPrefix, text, args, command }) => {
  let capt = `*${htki} Dare ${htka}*
- _Please be honest and do your dare_
+ _💝Please be honest and සප් එකක් දියම්💝_
  
- Whatsapp Bot by Ahmad Ali
- *wa.me/923470027813*
+ Whatsapp Bot by Dinuwa Official²⁰²³
+ *wa.me/94740804536*
  
  
- Follow me on instagram:\n\t\t\titx_ahmad.ali
+ Follow me on instagram:\n\t\t\Dinuwa Official²⁰²³
  `
 let buttons = [{ buttonText: { displayText: 'Truth or Dare' }, buttonId: `${usedPrefix}tod` }]
 
@@ -50,7 +50,7 @@ let buttons = [{ buttonText: { displayText: 'Truth or Dare' }, buttonId: `${used
 	 "Send me the screenshot of your last chat with your partner."
 ]
 							 
-let msg = await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BP8RnZf/dare.jpg' }, caption: `${pickRandom(dare)}`, footer: capt, buttons }, { quoted: m })
+let msg = await conn.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' }, caption: `${pickRandom(dare)}`, footer: capt, buttons }, { quoted: m })
 }
 
 handler.command = /^dare?$/i
