@@ -78,16 +78,22 @@
 - 4. Simply click Deploy to heroku button above
 
 ## ```QR SCAN```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com/@dinuwah/Dinuwa-Official2023-USER-BOT?output%20only=1&lite=1#thumbnail.jpg)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+# 
+
+* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3.mrnima.repl.co)
+* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://QUEEN-ELISA-MD-V3-2nd-Qr-Scaner.mrnima.repl.co/)
+* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/Queen-V230#index.js)  
 ---------
 
-## ```USER RAILWAY```
+## ```DEPLOY IN RAILWAY```
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
-## ```USER REPLIT```
+## ```DEPLOY IN REPLIT```
 [![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
+
+## ```DEPLOY IN MOGENIUS```
+(https://studio.mogenius.com/)
 
 ## How to deploy in replit
 
