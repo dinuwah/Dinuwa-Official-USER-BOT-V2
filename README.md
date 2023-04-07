@@ -93,7 +93,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
 
 ## ```DEPLOY IN MOGENIUS```
-[![Deploy on Mogenius]([https://railway.app/button.svg](https://studio.mogenius.com/button.svg))](https://studio.mogenius.com/)
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
 ## How to deploy in replit
 
