@@ -87,7 +87,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/dinuwah/Dinuwa-Official-USER-BOT)
+[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://replit.com)
 
 ## How to deploy in replit
 
