@@ -17,7 +17,6 @@ const size = await yt.audio[q].fileSizeH
 await m.reply(`
 ▢ Tɪᴛᴛʟᴇ: ${ttl}
 ▢  Sɪᴢᴇ: ${size}
-
 ▢ Ｌｏａｄｉｎｇ. . .`)
 await conn.sendMessage(m.chat, { document: { url: dl_url}, mimetype: 'audio/mpeg', fileName: `${ttl}.mp3`}, {quoted: m})
 // If u want a not document you can change document to audio, mimetype 'audio/mp4' n remove .mp3 on fileName
