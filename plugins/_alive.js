@@ -8,16 +8,16 @@ let handler = async (m, { conn }) => {
 ┬╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│            Dinuwa Official²⁰²³
-⬡│☂︎ WHATSAPP BOT CODED BY👇🏽
-⬡│☂︎           Dinuwa Official²⁰²³
-⬡│☂︎           OWNER:Dinuwa Official²⁰²³
-⬡│☂︎ wa.me/94740804536
+┴│            *Dinuwa Official²⁰²³*
+⬡│☂︎ *WHATSAPP BOT CODED BY👇🏽*
+⬡│☂︎           *Dinuwa Official²⁰²³*
+⬡│☂︎           *OWNER:Dinuwa Official²⁰²³*
+⬡│☂︎ *wa.me/94740804536*
 ┏ ┅ ━━━━━━━━━ ┅ ➔
 ┇ 《 Dinuwa MD BOT 》
 ┣ ┅ ━━━━━━━━━ ┅ ➔
 ┃  
-┃ ❤️ Active for ${mpt}
+┃ ❤️ *Uptime:* %muptime
 ┃ 
 ┃ ❤️ Install Bot  : https://github.com/dinuwah
 ┃ 
@@ -28,7 +28,7 @@ let handler = async (m, { conn }) => {
 ┃ 
 ┃ ❤️ Version  : Dinuwa MD BOT
 ┃
-┃ ❤️ ❤️ ❤️ ❤️ ❤️
+┃ ❤️ Time : 13:09:07
 ┃ 
 ┃ ❤️ Owner : Dinuwa Official 
 ┃
@@ -37,7 +37,7 @@ let handler = async (m, { conn }) => {
 ❤️Dinuwa MD BOT ❤️
 │╰────────────────···
 ╰──────────═┅═───────
-Thanks For Using 💖Dinuwa Official²⁰²³💖
+*Thanks For Using 💖Dinuwa Official²⁰²³💖*
 `.trim()
   m.reply(caption)
 }
